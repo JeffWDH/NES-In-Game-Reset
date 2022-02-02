@@ -1,4 +1,4 @@
-NES In Game Reset
+Nintendo Entertainment System (NES) In Game Reset
 
 Using an Arduino Nano to reset a NES using a Start+Select gamepad combination. 
 
